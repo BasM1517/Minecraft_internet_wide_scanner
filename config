@@ -1,0 +1,8 @@
+# My Scan
+rate =  100000.00
+output-format = xml
+output-status = all
+output-filename = scan.xml
+ports = 25565
+range = 0.0.0.0-255.255.255.255
+excludefile = exclude.txt
